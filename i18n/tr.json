@@ -1,51 +1,51 @@
 [
   {
     "id": "April",
-    "translation": "April"
+    "translation": "Nisan"
   },
   {
     "id": "August",
-    "translation": "August"
+    "translation": "Ağustos"
   },
   {
     "id": "December",
-    "translation": "December"
+    "translation": "Aralık"
   },
   {
     "id": "February",
-    "translation": "February"
+    "translation": "Şubat"
   },
   {
     "id": "January",
-    "translation": "January"
+    "translation": "Ocak"
   },
   {
     "id": "July",
-    "translation": "July"
+    "translation": "Temmuz"
   },
   {
     "id": "June",
-    "translation": "June"
+    "translation": "Haziran"
   },
   {
     "id": "March",
-    "translation": "March"
+    "translation": "Mart"
   },
   {
     "id": "May",
-    "translation": "May"
+    "translation": "Mayıs"
   },
   {
     "id": "November",
-    "translation": "November"
+    "translation": "Kasım"
   },
   {
     "id": "October",
-    "translation": "October"
+    "translation": "Ekim"
   },
   {
     "id": "September",
-    "translation": "September"
+    "translation": "Eylül"
   },
   {
     "id": "api.admin.file_read_error",
@@ -113,11 +113,11 @@
   },
   {
     "id": "api.channel.create_default_channels.off_topic",
-    "translation": "Off-Topic"
+    "translation": "Konu-Dışı"
   },
   {
     "id": "api.channel.create_default_channels.town_square",
-    "translation": "Town Square"
+    "translation": "Meydan"
   },
   {
     "id": "api.channel.create_direct_channel.invalid_user.app_error",
