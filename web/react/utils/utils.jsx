@@ -1388,6 +1388,10 @@ export function languages() {
             {
                 value: 'pt',
                 name: 'Portugues (Beta)'
+            },
+            {
+                value: 'tr',
+                name: 'Türkçe (Pre-Alpha)'
             }
         ]
     );
